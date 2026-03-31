@@ -1,4 +1,5 @@
 # 📘 NotebookLM – Tupac Shakur
+- [Link de acessor - NotebookLM](https://notebooklm.google.com/notebook/eff06e5e-eee0-424a-8f5f-e5fa502b2986)
 
 ## 🎯 Objetivos
 - Criar uma IA focada na trajetória de vida de **Tupac Shakur**, desde sua infância até a morte precoce em 1996.  
